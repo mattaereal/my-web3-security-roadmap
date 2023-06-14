@@ -1,4 +1,4 @@
-# auditor-roadmap
+# My personal roadmap (out of date)
 My own tailored roadmap, to my web3 / smart contract auditor knowledge.
 
 The primary purpose of this road map is to document the resources that piqued my interest throughout the studies of the security perspective and the underlying technologies of this ecosystem.
