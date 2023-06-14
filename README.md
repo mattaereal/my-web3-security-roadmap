@@ -3,8 +3,13 @@ My own tailored roadmap, to my web3 / smart contract auditor knowledge.
 
 The primary purpose of this road map is to document the resources that piqued my interest throughout the studies of the security perspective and the underlying technologies of this ecosystem.
 
+### Disclaimer
+This is not in any way the ultimate roadmap, nor the best, neither a good one. It's just what I considered while I was studying my way through web3 security, particularly evm-based content. I'm in need to clarify this because there has been at least more than 20 "ultimate roadmaps++" since I, at least, started learning, and each one of them are clearly subjective, so you need to create your own roadmap according what you want to learn. Wat you need to do first is learn the minimum necessary to have an idea of what you want to learn following your needs or objectives.
+
 ⭐ → highlighted article
+
 👌🏽 → personal liking
+
 ♦️ → mandatory to read / check out / save for later
 
 # Table of contents
